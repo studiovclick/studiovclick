@@ -4,11 +4,12 @@
 
 ## 🧠 Stack Técnica
 
-| Tecnologia | Progresso |
-|------------|-----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![85%](https://progress-bar.dev/85/?width=200&color=E34F26) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![75%](https://progress-bar.dev/75/?width=200&color=1572B6) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![60%](https://progress-bar.dev/60/?width=200&color=F05032) |
+**HTML5**  
+![HTML Progress](https://img.shields.io/badge/Progresso-85%25-E34F26?style=flat-square&logo=html5)  
+**CSS3**  
+![CSS Progress](https://img.shields.io/badge/Progresso-75%25-1572B6?style=flat-square&logo=css3)  
+**Git**  
+![Git Progress](https://img.shields.io/badge/Progresso-60%25-F05032?style=flat-square&logo=git)
 
 ## 📊 Minhas Estatísticas
 
@@ -17,21 +18,21 @@
 
 ## 🏗 Projetos Destacados
 
-✨ [Site Neon](https://studiovclick.github.io/neon/) - Meu primeiro projeto com efeitos CSS e design moderno  
-🛠 [Portfólio (Em Desenvolvimento)]() - Meu projeto atual em construção  
+✨ [Site Neon](https://studiovclick.github.io/neon/) - Meu primeiro projeto com efeitos CSS  
+🔧 [Portfólio (Em Breve)]() - Em desenvolvimento  
 
-## 📚 Roadmap de Aprendizado
+## 📚 Próximos Passos
 
-| Próxima Tecnologia | Progresso |
-|--------------------|-----------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![15%](https://progress-bar.dev/15/?width=200&color=F7DF1E) |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![5%](https://progress-bar.dev/5/?width=200&color=61DAFB) |
+**JavaScript**  
+![JS Progress](https://img.shields.io/badge/Progresso-15%25-F7DF1E?style=flat-square&logo=javascript)  
+**React**  
+![React Progress](https://img.shields.io/badge/Progresso-5%25-61DAFB?style=flat-square&logo=react)
 
 ## 📫 Contato Profissional
 
-[![Gmail](https://img.shields.io/badge/-studioc447@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:studioc447@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp_Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551989727254)
+[![Gmail](https://img.shields.io/badge/Gmail-studioc447@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:studioc447@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5551989727254)
 
 ---
 
-⭐ Explore [meus outros projetos](https://github.com/StudioVclick?tab=repositories)
+⭐ Veja [meus repositórios](https://github.com/StudioVclick?tab=repositories)
